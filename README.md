@@ -1,0 +1,2 @@
+# slidecoding
+Coding rules 
