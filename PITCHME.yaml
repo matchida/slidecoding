@@ -1,11 +1,8 @@
 # テーマの設定
-theme : sky
-
-# ロゴアイコンの設定
-logo : logo.png
+theme : moon
 
 # フットノートの設定
-footnote : "© 2017 machida Inc."
+footnote : "© 2017 machida."
 
 # スライドのページ数表示の設定
-slide-number: true
+slide-number: false
