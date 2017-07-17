@@ -14,7 +14,7 @@
 
 ### 3枚目のスライド
 
----?code=slide.js
+?code=slide.js
 
 リポジトリ内の「slide.js」を読み込んで表示
 
