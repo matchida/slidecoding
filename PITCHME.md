@@ -43,5 +43,6 @@ console.log(str3);
 - Scala |
 
 
+---
 
 ### おわり
