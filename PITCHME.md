@@ -47,7 +47,7 @@ Machida
 * インデントがばらばら
 * テストコードが残ったまま
 * 深いネスト構造が多々ある
-* @TODO,@FIXMEも残ったまま
+* @TODO, @FIXMEも残ったまま
 
 +++
 
@@ -58,17 +58,24 @@ if($bool == true){
   echo 'true';
 }
 
-if ( $bool == true ) {
-  echo 'true';
+foreach ( $arr as $row ) {
+  echo $row;
 }
 
-if( $bool == true ){
-  echo 'ture';
+for( $i=0; $i < 5; $i ++){
+  echo $i;
+}
+
+if ($bool == true) {
+  echo 'true';
 }
 ```
-@[1](こんな基本形これだったり)
+@[1](こんなだったり)
 @[5](これだったり)
 @[9](こうきたり・・・)
+@[13](ちなみに、私はこのパターン派です。)
+
++++
 
 ---
 
