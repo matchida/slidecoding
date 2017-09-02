@@ -31,6 +31,7 @@ machida
 </span>
 ![m](m_town.png)
 
+<!-- 
 +++
 
 <span style="font-size: 18px;">
@@ -43,7 +44,7 @@ machida
 <span style="font-size: 18px;">
 佐賀でも雪は降ります。
 </span>
-![s](snow.png)
+![s](snow.png) -->
 
 ---
 
