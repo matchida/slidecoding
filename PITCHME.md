@@ -24,10 +24,26 @@ machida
 
 +++
 
+#### 少しだけ近所の風景
+
 <span style="font-size: 18px;">
 ちなみに地元はこんな感じです。
 </span>
 ![m](m_town.png)
+
++++
+
+<span style="font-size: 18px;">
+自宅前にこんな公園がありまして。
+</span>
+![h](house_front.png)
+
++++
+
+<span style="font-size: 18px;">
+佐賀でも雪は降ります。
+</span>
+![s](snow.png)
 
 ---
 
