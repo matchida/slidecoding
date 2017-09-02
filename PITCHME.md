@@ -31,22 +31,6 @@ machida
 </span>
 ![m](m_town.png)
 
-
-
-\\+++
-
-\\<span style="font-size: 18px;">
-\\自宅前にこんな公園がありまして。
-\\</span>
-\\![h](house_front.png)
-
-\\+++
-
-\\<span style="font-size: 18px;">
-\\佐賀でも雪は降ります。
-\\</span>
-\\![s](snow.png) -->
-
 ---
 
 #### コーディング規約とは
