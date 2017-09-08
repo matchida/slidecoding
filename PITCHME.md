@@ -24,8 +24,6 @@ machida
 
 +++
 
-#### 少しだけ近所の風景
-
 <span style="font-size: 18px;">
 ちなみに地元はこんな感じです。
 </span>
