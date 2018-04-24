@@ -1,11 +1,5 @@
-# テーマの設定
-theme : moon
-
-# ロゴの設定
-# logo : hashimon.jpg
-
 # フットノートの設定
-footnote : "© 2017 machida."
+footnote : "© 2018 machida."
 
 # スライドのページ数表示の設定
 slide-number: false
