@@ -1,5 +1,5 @@
 ### 就職活動中の方たちへ
-SE・PROJECT  
+SE.PROJECT  
 Machida
 
 ---
@@ -70,7 +70,7 @@ Machida
 
 ---
 
-### SE・PROJECTに決めた理由
+### SE.PROJECTに決めた理由
 - 同郷の先輩が多い
 - 研修制度
 - アットホーム
